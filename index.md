@@ -36,6 +36,7 @@
       
       - 解决办法：修改注册表
         - 按下Win+R组合键>输入“regedit”>进入HKEY_LOCAL_MACHINE>SOFTWARE>Wow6432Node>TopDomain>e-Learning Class>Student>把EnableLockScreen的数值数据改为0>点击确定>关闭注册表
+
 二：进程类
     
     - 1.任务管理器杀进程
