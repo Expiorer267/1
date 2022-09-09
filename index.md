@@ -6,7 +6,8 @@
 
 > [UnMythware_V4.5专业版](https://pan.bilnn.cn/s/2XBZiM)
 
->[byebye极域](https://pan.bilnn.cn/api/v3/file/sourcejump/DoKzGEI9/kIPLW6h6dm-eSbiuR_DcFWHQa2ouGjDb_6BLw-6a97I*)
+> [byebye极域](https://pan.bilnn.cn/api/v3/file/sourcejump/DoKzGEI9/kIPLW6h6dm-eSbiuR_DcFWHQa2ouGjDb_6BLw-6a97I*)
+> [极域杀手（cmd窗口）](https://action.118pan.com/b1110932) 原地址：https://www.golue.com/game/v736248.html
 
 ### 技巧
 - 一：网络类
@@ -64,4 +65,21 @@ taskill /f /im studentmain.exe
    - 5.粘滞键杀进程
        - 按下Win+R组合键>输入“regedit”>进入HKEY_LOCAL_MACHINE>SOFTWARE>Microsoft>Windows NT>在lmage Fil...中新建项sethc.exe>右键新建字符串值>命名为edbugger>打开>在“数值数据”那里填写“[任意名称].bat”>确定>打开此电脑或计算机>进入C盘>进入Windows文件夹>新建一个文本文档，名称为你在注册表中填写的.bat文件>更改后缀（如果没有后缀名，打开计算机（或此电脑），选项，转到查看，找到“隐藏已知文件类型的扩展名”，取消勾选即可）>打开>输入“taskill /f /im studentmain.exe”>按5此shift即可杀掉极域的进程
 
-###### 此网页由Expiorer267最后更新于2022年8月12日22:48
+- 四：密码类
+   - 1.注册表找密码
+      - 按下Win+R组合键>输入“regedit”>进入HKEY_LOCAL_MACHINE>SOFTWARE>Wow6432Node>TopDomain>e-Learning Class Standard>1.00，UninstallPassword就是极域的密码
+      - 但是这个方法在6.0版本之后就用不了了，不过还是可以通过注册表破解密码。
+   - 2.注册表该密码
+      - 按下Win+R组合键>输入“regedit”>进入HKEY_LOCAL_MACHINE>SOFTWARE>Wow6432Node>TopDomain>e-Learning Class>Student>找到那个名为Knock1的值，打开它，把里面的数字全部清除，这样密码就无了。
+   - 3.极域万能密码 
+```
+mythware_super_password
+```
+      - 这个密码无论设了什么密码都能用它打开
+   - 4.密码断连
+      - 极域的设置>网络>改变频道或设置“选择教师登录”>确定
+   - 5.密码卸载
+      - 右键极域的快捷方式>选择“打开文件所在目录”>找到"unins000.exe"并打开它>输入万能密码选择卸载，此时极域会取消一次，多试几次即可卸载 
+##### 此网页上的所有软件和技巧来源于互联网，若侵权，则删除。
+
+###### 此网页由Expiorer267最后更新于2022年9月9日22:23
