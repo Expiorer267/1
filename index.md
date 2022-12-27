@@ -70,7 +70,7 @@ taskill /f /im studentmain.exe
    - 1.注册表找密码
       - 按下Win+R组合键>输入“regedit”>进入HKEY_LOCAL_MACHINE>SOFTWARE>Wow6432Node>TopDomain>e-Learning Class Standard>1.00，UninstallPassword就是极域的密码
       - 但是这个方法在6.0版本之后就用不了了，不过还是可以通过注册表破解密码。
-   - 2.注册表该密码
+   - 2.注册表改密码
       - 按下Win+R组合键>输入“regedit”>进入HKEY_LOCAL_MACHINE>SOFTWARE>Wow6432Node>TopDomain>e-Learning Class>Student>找到那个名为Knock1的值，打开它，把里面的数字全部清除，这样密码就无了。
    - 3.极域万能密码 
 ```
