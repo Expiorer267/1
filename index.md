@@ -1,12 +1,12 @@
 # 极域工具
 
-> [极域克星](https://pan.bilnn.cn/api/v3/file/sourcejump/Nl2ZGLuW/CgUzKinAxRSTZUjoZcRPacxyMD4k_DPsgp_8TpErLoY*)
+> [极域克星](https://pan.bilnn.cn/api/v3/file/sourcejump/Nl2ZGLuW/CgUzKinAxRSTZUjoZcRPacxyMD4k_DPsgp_8TpErLoY*)（链接已挂）
 
-> [极域杀手 V4.1](https://pan.bilnn.cn/api/v3/file/sourcejump/1M3XWWIw/Q3m3vxHSDRkstIqPoaUXDC7GYxuHBMlGrGndIEKJdCI*)
+> [极域杀手 V4.1](https://pan.bilnn.cn/api/v3/file/sourcejump/1M3XWWIw/Q3m3vxHSDRkstIqPoaUXDC7GYxuHBMlGrGndIEKJdCI*)（链接已挂）
 
 > [UnMythware_V4.5专业版](https://pan.bilnn.cn/s/2XBZiM)
 
-> [byebye极域](https://pan.bilnn.cn/api/v3/file/sourcejump/DoKzGEI9/kIPLW6h6dm-eSbiuR_DcFWHQa2ouGjDb_6BLw-6a97I*)
+> [byebye极域](https://pan.bilnn.cn/api/v3/file/sourcejump/DoKzGEI9/kIPLW6h6dm-eSbiuR_DcFWHQa2ouGjDb_6BLw-6a97I*)（链接已挂）
 > [极域杀手（cmd窗口）](https://action.118pan.com/b1110932) 原地址：https://www.golue.com/game/v736248.html
 
 ### 技巧
@@ -80,6 +80,6 @@ mythware_super_password
       - 极域的设置>网络>改变频道或设置“选择教师登录”>确定
    - 5.密码卸载
       - 右键极域的快捷方式>选择“打开文件所在目录”>找到"unins000.exe"并打开它>输入万能密码选择卸载，此时极域会取消一次，多试几次即可卸载 
-##### 此网页上的所有软件和技巧来源于互联网，若侵权，则删除。
+##### 此网页上的所有软件和技巧来源于互联网，若侵权，请发送邮件到lianshao5416@foxmail.com，我会第一时间删除相关文段。
 
-###### 此网页由Expiorer267最后更新于2022年9月9日22:23
+###### 此网页由Expiorer267最后更新于2022年12月27日10点46分
