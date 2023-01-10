@@ -1,5 +1,7 @@
 # 极域工具
 
+![网站访问量](https://badges.toozhao.com/badges/01GPDRPA6BPYEM9QNBVZVC72VM/orange.svg)
+
 > [极域克星](https://pan.bilnn.cn/api/v3/file/sourcejump/Nl2ZGLuW/CgUzKinAxRSTZUjoZcRPacxyMD4k_DPsgp_8TpErLoY*)（链接已挂）
 
 > [极域杀手 V4.1](https://pan.bilnn.cn/api/v3/file/sourcejump/1M3XWWIw/Q3m3vxHSDRkstIqPoaUXDC7GYxuHBMlGrGndIEKJdCI*)（链接已挂）
